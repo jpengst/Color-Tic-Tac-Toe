@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+.main {
+    margin: auto;
+    width: 50%;
+}
+
+.board {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 606px;
+    width: 606px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+.square1 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square2 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square3 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square4 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square5 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square6 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square7 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square8 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+.square9 {
+
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
